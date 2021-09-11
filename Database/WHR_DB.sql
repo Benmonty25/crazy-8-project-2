@@ -1,5 +1,5 @@
 -- Drop table if exists
-DROP TABLE population_data;
+DROP TABLE whr_db;
 
 -- Create new table for WHR 2008 to 2020 data and import CSV
 CREATE TABLE WHR2008_to_2019 (
