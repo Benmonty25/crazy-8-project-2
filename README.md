@@ -4,13 +4,18 @@
 For this project, we wanted to analyze how COVID-19 affected happiness around the world. To accomplish this, we pulled data from the World Happiness Report website and some free international census data from The World Bank to assembple a database that could be used for future analysis on this topic.
 
 ## Extract
-We extracted our data from the World Happiness Report website: https://worldhappiness.report/ed/2021/#appendices-and-data
 
-On this website, we were able to download World Happiness Report data and data corresponding to COVID-19 related deaths.
+![WHR LOGO](https://pbs.twimg.com/profile_images/1372771253451333636/zbY13SN4_400x400.jpg)
 
-We downlaoded our data as CSV files from this website.
+- We extracted our data from the World Happiness Report website: https://worldhappiness.report/ed/2021/#appendices-and-data
 
-The international census data was extracted from The World Bank (https://data.worldbank.org/indicator/SP.POP.TOTL). The file format is a CSV file.
+- On this website, we were able to download World Happiness Report data and data corresponding to COVID-19 related deaths.
+
+- We downlaoded our data as CSV files from this website.
+
+![TWB LOGO](https://media.globalcitizen.org/63/dd/63dd71fb-2d61-4479-9c60-92ac79260a31/worldbank_logo.jpg)
+
+- The international census data was extracted from The World Bank (https://data.worldbank.org/indicator/SP.POP.TOTL). The file format is a CSV file.
 
 ## Transform
 To transform our data into a usable format, we cleaned up the downloaded CSV files to get what we needed, and did away with what we did not need.
