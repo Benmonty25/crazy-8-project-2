@@ -81,7 +81,7 @@ FROM covid_data;
 UPDATE td2017
 SET    year = '2017';
 
---creating temp tables for 2017 population data to unpivot
+--creating temp tables for 2018 population data to unpivot
 Create table td2018 (country_name varchar,year INT, total_deaths INT);
 
 INSERT INTO td2018(country_name, total_deaths) 

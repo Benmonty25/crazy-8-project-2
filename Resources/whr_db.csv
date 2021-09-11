@@ -1,3 +1,4 @@
+country_name,year,ladder_score,log_gdp_per_capita,social_support,healthy_life_expectancy,freedom_to_make_life_choices,generosity,perceptions_of_corruption,total_deaths,covid_deaths,median_age,population,country_area,population_density
 Afghanistan,2008,3.724,7.37,0.451,50.8,0.718,0.168,0.882,,,,27703539,652230,42.5
 Afghanistan,2009,4.402,7.54,0.552,51.2,0.679,0.19,0.85,,,,28480801,652230,43.7
 Afghanistan,2010,4.758,7.647,0.539,51.6,0.6,0.121,0.707,,,,29116851,652230,44.6
